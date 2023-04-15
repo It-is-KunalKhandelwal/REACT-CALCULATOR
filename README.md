@@ -1,2 +1,2 @@
 
-Simple calculator built using HTML CSS REACT. Reference:webdevsimplied
+Simple calculator built using HTML CSS REACT+Vite. Reference:webdevsimplied
